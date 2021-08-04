@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-This is my first message in github~~~
+
+** This is my first message in github~~~ **
 
 <!---
 micwayde/micwayde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
